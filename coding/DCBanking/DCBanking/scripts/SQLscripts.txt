@@ -1,0 +1,6 @@
+﻿create table UserMaster(
+	custid int indentity primary key,
+	UfirstName nvarchar(25);
+	UlastName nvarchar(25);
+	UMobileNo int
+	)
