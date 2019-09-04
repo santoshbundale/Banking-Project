@@ -1,0 +1,6 @@
+E:\sagar daata\Banking-Project\coding\DCBanking\DCBanking\bin\DCBanking.dll.config
+E:\sagar daata\Banking-Project\coding\DCBanking\DCBanking\bin\DCBanking.dll
+E:\sagar daata\Banking-Project\coding\DCBanking\DCBanking\bin\DCBanking.pdb
+E:\sagar daata\Banking-Project\coding\DCBanking\DCBanking\obj\Debug\DCBanking.csprojResolveAssemblyReference.cache
+E:\sagar daata\Banking-Project\coding\DCBanking\DCBanking\obj\Debug\DCBanking.dll
+E:\sagar daata\Banking-Project\coding\DCBanking\DCBanking\obj\Debug\DCBanking.pdb
