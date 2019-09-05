@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <h2>this is the benificiary page</h2>
+    <h2>this is the benificiary testaa page</h2>
     </div>
     </form>
 </body>
